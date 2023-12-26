@@ -1,0 +1,92 @@
+0 verbose cli /opt/homebrew/Cellar/node/21.4.0/bin/node /opt/homebrew/bin/npm
+1 info using npm@10.2.4
+2 info using node@v21.4.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/opt/homebrew/lib/node_modules/npm/npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/Users/mereyazhibekova/Library/Caches/typescript/5.2/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 3ms
+11 timing config:load:file:/Users/mereyazhibekova/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/opt/homebrew/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 0ms
+16 timing config:load Completed in 8ms
+17 timing npm:load:configload Completed in 8ms
+18 timing config:load:flatten Completed in 2ms
+19 timing npm:load:mkdirpcache Completed in 0ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm install @types/node@ts5.2
+22 verbose argv "install" "--ignore-scripts" "@types/node@ts5.2" "--save-dev" "--user-agent" "typesInstaller/5.2.2"
+23 timing npm:load:setTitle Completed in 2ms
+24 timing npm:load:display Completed in 0ms
+25 verbose logfile logs-max:10 dir:/Users/mereyazhibekova/.npm/_logs/2023-12-15T10_40_47_160Z-
+26 verbose logfile /Users/mereyazhibekova/.npm/_logs/2023-12-15T10_40_47_160Z-debug-0.log
+27 timing npm:load:logFile Completed in 4ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 23ms
+31 timing arborist:ctor Completed in 0ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 5ms
+34 timing arborist:ctor Completed in 0ms
+35 http fetch GET 200 https://registry.npmjs.org/npm 362ms (cache miss)
+36 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 1110ms (cache miss)
+37 timing idealTree:userRequests Completed in 1116ms
+38 silly idealTree buildDeps
+39 silly fetch manifest @types/node@20.10.4
+40 silly placeDep ROOT @types/node@20.10.4 OK for:  want: 20.10.4
+41 silly fetch manifest undici-types@~5.26.4
+42 http fetch GET 200 https://registry.npmjs.org/undici-types 78ms (cache miss)
+43 timing idealTree:#root Completed in 83ms
+44 silly placeDep ROOT undici-types@5.26.5 OK for: @types/node@20.10.4 want: ~5.26.4
+45 timing idealTree:node_modules/@types/node Completed in 2ms
+46 timing idealTree:node_modules/undici-types Completed in 0ms
+47 timing idealTree:buildDeps Completed in 85ms
+48 timing idealTree:fixDepFlags Completed in 0ms
+49 timing idealTree Completed in 1207ms
+50 timing reify:loadTrees Completed in 1207ms
+51 timing reify:diffTrees Completed in 1ms
+52 silly reify moves {}
+53 timing reify:retireShallow Completed in 1ms
+54 timing reify:createSparse Completed in 1ms
+55 timing reify:loadBundles Completed in 0ms
+56 silly audit bulk request {
+56 silly audit   'types-registry': [ '0.1.674' ],
+56 silly audit   '@types/node': [ '20.10.4' ],
+56 silly audit   'undici-types': [ '5.26.5' ]
+56 silly audit }
+57 silly tarball no local data for undici-types@https://registry.npmjs.org/undici-types/-/undici-types-5.26.5.tgz. Extracting by manifest.
+58 silly tarball no local data for @types/node@https://registry.npmjs.org/@types/node/-/node-20.10.4.tgz. Extracting by manifest.
+59 http fetch GET 200 https://registry.npmjs.org/undici-types/-/undici-types-5.26.5.tgz 109ms (cache miss)
+60 timing reifyNode:node_modules/undici-types Completed in 112ms
+61 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 274ms
+62 timing auditReport:getReport Completed in 277ms
+63 silly audit report {}
+64 timing auditReport:init Completed in 0ms
+65 timing reify:audit Completed in 277ms
+66 http fetch GET 200 https://registry.npmjs.org/@types/node/-/node-20.10.4.tgz 917ms (cache miss)
+67 timing reifyNode:node_modules/@types/node Completed in 921ms
+68 timing reify:unpack Completed in 921ms
+69 timing reify:unretire Completed in 0ms
+70 timing build:queue Completed in 0ms
+71 timing build:deps Completed in 0ms
+72 timing build Completed in 1ms
+73 timing reify:build Completed in 1ms
+74 timing reify:trash Completed in 0ms
+75 timing reify:save Completed in 2ms
+76 timing reify Completed in 2165ms
+77 silly ADD node_modules/undici-types
+78 silly ADD node_modules/@types/node
+79 timing command:install Completed in 2167ms
+80 notice
+80 notice New patch version of npm available! 10.2.4 -> 10.2.5
+80 notice Changelog: <https://github.com/npm/cli/releases/tag/v10.2.5>
+80 notice Run `npm install -g npm@10.2.5` to update!
+80 notice
+81 verbose exit 0
+82 timing npm Completed in 2309ms
+83 info ok

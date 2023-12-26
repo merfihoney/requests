@@ -1,0 +1,161 @@
+0 verbose cli /opt/homebrew/Cellar/node/21.4.0/bin/node /opt/homebrew/bin/npm
+1 info using npm@10.2.4
+2 info using node@v21.4.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 0ms
+5 timing config:load:file:/opt/homebrew/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/Users/mereyazhibekova/Library/Caches/typescript/5.2/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/Users/mereyazhibekova/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/opt/homebrew/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 6ms
+17 timing npm:load:configload Completed in 6ms
+18 timing config:load:flatten Completed in 0ms
+19 timing npm:load:mkdirpcache Completed in 0ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm install @types/express@ts5.2
+22 verbose argv "install" "--ignore-scripts" "@types/express@ts5.2" "--save-dev" "--user-agent" "typesInstaller/5.2.2"
+23 timing npm:load:setTitle Completed in 2ms
+24 timing npm:load:display Completed in 0ms
+25 verbose logfile logs-max:10 dir:/Users/mereyazhibekova/.npm/_logs/2023-12-21T17_18_46_491Z-
+26 verbose logfile /Users/mereyazhibekova/.npm/_logs/2023-12-21T17_18_46_491Z-debug-0.log
+27 timing npm:load:logFile Completed in 3ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 18ms
+31 timing arborist:ctor Completed in 0ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 6ms
+34 timing arborist:ctor Completed in 1ms
+35 http fetch GET 200 https://registry.npmjs.org/@types%2fexpress 1478ms (cache miss)
+36 timing idealTree:userRequests Completed in 1480ms
+37 silly idealTree buildDeps
+38 silly fetch manifest @types/express@4.17.21
+39 silly placeDep ROOT @types/express@4.17.21 OK for:  want: 4.17.21
+40 silly fetch manifest @types/body-parser@*
+41 silly fetch manifest @types/express-serve-static-core@^4.17.33
+42 silly fetch manifest @types/qs@*
+43 silly fetch manifest @types/serve-static@*
+44 http fetch GET 200 https://registry.npmjs.org/@types%2fbody-parser 122ms (cache miss)
+45 http fetch GET 200 https://registry.npmjs.org/@types%2fexpress-serve-static-core 350ms (cache miss)
+46 http fetch GET 200 https://registry.npmjs.org/@types%2fserve-static 391ms (cache miss)
+47 http fetch GET 200 https://registry.npmjs.org/@types%2fqs 414ms (cache miss)
+48 timing idealTree:#root Completed in 418ms
+49 silly placeDep ROOT @types/body-parser@1.19.5 OK for: @types/express@4.17.21 want: *
+50 silly fetch manifest @types/connect@*
+51 silly placeDep ROOT @types/express-serve-static-core@4.17.41 OK for: @types/express@4.17.21 want: ^4.17.33
+52 silly fetch manifest @types/range-parser@*
+53 silly fetch manifest @types/send@*
+54 silly placeDep ROOT @types/qs@6.9.10 OK for: @types/express@4.17.21 want: *
+55 silly placeDep ROOT @types/serve-static@1.15.5 OK for: @types/express@4.17.21 want: *
+56 silly fetch manifest @types/http-errors@*
+57 silly fetch manifest @types/mime@*
+58 http fetch GET 200 https://registry.npmjs.org/@types%2frange-parser 141ms (cache miss)
+59 http fetch GET 200 https://registry.npmjs.org/@types%2fsend 158ms (cache miss)
+60 http fetch GET 200 https://registry.npmjs.org/@types%2fconnect 174ms (cache miss)
+61 http fetch GET 200 https://registry.npmjs.org/@types%2fhttp-errors 187ms (cache miss)
+62 http fetch GET 200 https://registry.npmjs.org/@types%2fmime 425ms (cache miss)
+63 timing idealTree:node_modules/@types/express Completed in 432ms
+64 silly placeDep ROOT @types/connect@3.4.38 OK for: @types/body-parser@1.19.5 want: *
+65 timing idealTree:node_modules/@types/body-parser Completed in 1ms
+66 timing idealTree:node_modules/@types/connect Completed in 0ms
+67 silly placeDep ROOT @types/range-parser@1.2.7 OK for: @types/express-serve-static-core@4.17.41 want: *
+68 silly placeDep ROOT @types/send@0.17.4 OK for: @types/express-serve-static-core@4.17.41 want: *
+69 silly fetch manifest @types/mime@^1
+70 timing idealTree:node_modules/@types/express-serve-static-core Completed in 1ms
+71 timing idealTree:node_modules/@types/qs Completed in 0ms
+72 timing idealTree:node_modules/@types/range-parser Completed in 0ms
+73 silly placeDep ROOT @types/mime@1.3.5 OK for: @types/send@0.17.4 want: ^1
+74 timing idealTree:node_modules/@types/send Completed in 0ms
+75 timing idealTree:node_modules/@types/mime Completed in 0ms
+76 silly placeDep ROOT @types/http-errors@2.0.4 OK for: @types/serve-static@1.15.5 want: *
+77 timing idealTree:node_modules/@types/serve-static Completed in 1ms
+78 timing idealTree:node_modules/@types/http-errors Completed in 0ms
+79 timing idealTree:buildDeps Completed in 855ms
+80 timing idealTree:fixDepFlags Completed in 0ms
+81 timing idealTree Completed in 2341ms
+82 timing reify:loadTrees Completed in 2341ms
+83 timing reify:diffTrees Completed in 1ms
+84 silly reify moves {}
+85 timing reify:retireShallow Completed in 1ms
+86 timing reify:createSparse Completed in 1ms
+87 timing reify:loadBundles Completed in 0ms
+88 silly audit bulk request {
+88 silly audit   '@types/node': [ '20.10.4' ],
+88 silly audit   'types-registry': [ '0.1.675' ],
+88 silly audit   'undici-types': [ '5.26.5' ],
+88 silly audit   '@types/express': [ '4.17.21' ],
+88 silly audit   '@types/body-parser': [ '1.19.5' ],
+88 silly audit   '@types/express-serve-static-core': [ '4.17.41' ],
+88 silly audit   '@types/qs': [ '6.9.10' ],
+88 silly audit   '@types/serve-static': [ '1.15.5' ],
+88 silly audit   '@types/connect': [ '3.4.38' ],
+88 silly audit   '@types/range-parser': [ '1.2.7' ],
+88 silly audit   '@types/send': [ '0.17.4' ],
+88 silly audit   '@types/mime': [ '1.3.5' ],
+88 silly audit   '@types/http-errors': [ '2.0.4' ]
+88 silly audit }
+89 silly tarball no local data for @types/send@https://registry.npmjs.org/@types/send/-/send-0.17.4.tgz. Extracting by manifest.
+90 silly tarball no local data for @types/http-errors@https://registry.npmjs.org/@types/http-errors/-/http-errors-2.0.4.tgz. Extracting by manifest.
+91 silly tarball no local data for @types/mime@https://registry.npmjs.org/@types/mime/-/mime-1.3.5.tgz. Extracting by manifest.
+92 silly tarball no local data for @types/connect@https://registry.npmjs.org/@types/connect/-/connect-3.4.38.tgz. Extracting by manifest.
+93 silly tarball no local data for @types/serve-static@https://registry.npmjs.org/@types/serve-static/-/serve-static-1.15.5.tgz. Extracting by manifest.
+94 silly tarball no local data for @types/range-parser@https://registry.npmjs.org/@types/range-parser/-/range-parser-1.2.7.tgz. Extracting by manifest.
+95 silly tarball no local data for @types/qs@https://registry.npmjs.org/@types/qs/-/qs-6.9.10.tgz. Extracting by manifest.
+96 silly tarball no local data for @types/express-serve-static-core@https://registry.npmjs.org/@types/express-serve-static-core/-/express-serve-static-core-4.17.41.tgz. Extracting by manifest.
+97 silly tarball no local data for @types/body-parser@https://registry.npmjs.org/@types/body-parser/-/body-parser-1.19.5.tgz. Extracting by manifest.
+98 silly tarball no local data for @types/express@https://registry.npmjs.org/@types/express/-/express-4.17.21.tgz. Extracting by manifest.
+99 http fetch GET 200 https://registry.npmjs.org/@types/send/-/send-0.17.4.tgz 90ms (cache miss)
+100 timing reifyNode:node_modules/@types/send Completed in 96ms
+101 http fetch GET 200 https://registry.npmjs.org/@types/mime/-/mime-1.3.5.tgz 96ms (cache miss)
+102 timing reifyNode:node_modules/@types/mime Completed in 101ms
+103 http fetch GET 200 https://registry.npmjs.org/@types/connect/-/connect-3.4.38.tgz 99ms (cache miss)
+104 timing reifyNode:node_modules/@types/connect Completed in 103ms
+105 http fetch GET 200 https://registry.npmjs.org/@types/http-errors/-/http-errors-2.0.4.tgz 112ms (cache miss)
+106 timing reifyNode:node_modules/@types/http-errors Completed in 117ms
+107 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 256ms
+108 timing auditReport:getReport Completed in 259ms
+109 silly audit report {}
+110 timing auditReport:init Completed in 0ms
+111 timing reify:audit Completed in 260ms
+112 http fetch GET 200 https://registry.npmjs.org/@types/serve-static/-/serve-static-1.15.5.tgz 304ms (cache miss)
+113 timing reifyNode:node_modules/@types/serve-static Completed in 308ms
+114 http fetch GET 200 https://registry.npmjs.org/@types/qs/-/qs-6.9.10.tgz 320ms (cache miss)
+115 timing reifyNode:node_modules/@types/qs Completed in 325ms
+116 http fetch GET 200 https://registry.npmjs.org/@types/range-parser/-/range-parser-1.2.7.tgz 331ms (cache miss)
+117 timing reifyNode:node_modules/@types/range-parser Completed in 335ms
+118 http fetch GET 200 https://registry.npmjs.org/@types/express/-/express-4.17.21.tgz 339ms (cache miss)
+119 timing reifyNode:node_modules/@types/express Completed in 344ms
+120 http fetch GET 200 https://registry.npmjs.org/@types/body-parser/-/body-parser-1.19.5.tgz 343ms (cache miss)
+121 timing reifyNode:node_modules/@types/body-parser Completed in 348ms
+122 http fetch GET 200 https://registry.npmjs.org/@types/express-serve-static-core/-/express-serve-static-core-4.17.41.tgz 366ms (cache miss)
+123 timing reifyNode:node_modules/@types/express-serve-static-core Completed in 371ms
+124 timing reify:unpack Completed in 372ms
+125 timing reify:unretire Completed in 0ms
+126 timing build:queue Completed in 0ms
+127 timing build:deps Completed in 0ms
+128 timing build Completed in 0ms
+129 timing reify:build Completed in 1ms
+130 timing reify:trash Completed in 0ms
+131 timing reify:save Completed in 4ms
+132 timing reify Completed in 2728ms
+133 silly ADD node_modules/@types/http-errors
+134 silly ADD node_modules/@types/mime
+135 silly ADD node_modules/@types/send
+136 silly ADD node_modules/@types/range-parser
+137 silly ADD node_modules/@types/connect
+138 silly ADD node_modules/@types/serve-static
+139 silly ADD node_modules/@types/qs
+140 silly ADD node_modules/@types/express-serve-static-core
+141 silly ADD node_modules/@types/body-parser
+142 silly ADD node_modules/@types/express
+143 timing command:install Completed in 2730ms
+144 verbose exit 0
+145 timing npm Completed in 2807ms
+146 info ok

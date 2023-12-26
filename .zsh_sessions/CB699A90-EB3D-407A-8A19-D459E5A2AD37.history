@@ -1,0 +1,190 @@
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+xcode-select --install
+xcode-select --install
+xcode-select --install
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+brew
+xcode-select --install
+brew
+eval "$(/opt/homebrew/bin/brew shellenv)"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/rob/.zpro file
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+eval "$(/opt/homebrew/bin/brew shellenv)"
+brew
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/mereyazhibekova/.zprofile
+clear
+brew list
+brew install chrome
+clear
+pip install seaborn
+pip install matplotlib 
+clear
+pip install pandasa
+pip install pandas
+pip install yfinder
+pip install yfinance==0.2.4
+pip install json
+pip install yfinance=0.2.4
+pip install yfinance==0.2.4
+pip install yfinance==0.2.4 install yfinance
+pip install yfinance==0.2.4 install yfinance install yfinance==0.2.4
+pip install bs4
+ /usr/bin/env /usr/bin/python3 /Users/mereyazhibekova/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49343 -- /Users/mereyazhibekova/Downloads/Final_Assignment\ Library.ipynb 
+ cd /Users/mereyazhibekova/Downloads ; /usr/bin/env /usr/bin/python3 /Users/mereyazhibekova/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49350 -- /Users/mereyazhibekova/Downloads/Final_Assignment\ Library.ipynb 
+ cd /Users/mereyazhibekova/Downloads ; /usr/bin/env /usr/bin/python3 /Users/mereyazhibekova/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49356 -- /Users/mereyazhibekova/Downloads/Final_Assignment\ Library.ipynb 
+ cd /Users/mereyazhibekova/Downloads ; /usr/bin/env /usr/bin/python3 /Users/mereyazhibekova/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49369 -- /Users/mereyazhibekova/Downloads/Final_Assignment\ Library.ipynb 
+ cd /Users/mereyazhibekova/Downloads ; /usr/bin/env /usr/bin/python3 /Users/mereyazhibekova/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49618 -- /Users/mereyazhibekova/Downloads/Final_Assignment\ Library.ipynb 
+ cd /Users/mereyazhibekova/Downloads ; /usr/bin/env /usr/bin/python3 /Users/mereyazhibekova/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50547 -- /Users/mereyazhibekova/Downloads/Final_Assignment\ Library.ipynb 
+$ pip install yfinance
+! pip install yfinance
+where python
+python --version
+python -m pip --version
+pip install wget
+pip install yfinance --upgrade --no-cache-dir
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+wget --version
+brew install wget
+brew install --cask anaconda
+brew
+brew uninstall --force homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+xcode-select --install
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew
+echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
+brew
+eval $(/opt/homebrew/bin/brew shellenv)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+\
+
+git config --global user.email merfidew@gmail.com
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+cd /opt/homebrew/bin/
+ls
+PATH=$PATH:/opt/homebrew/bin
+cd
+touch .zshrc
+echo export PATH=$PATH:/opt/homebrew/bin -> .zshrc
+brew
+brew doctor
+brew config
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+open /opt/homebrew
+open /opt/homebrew
+rmdir homebrew 
+git --version
+git clone http://github.com/large-repository --depth 1
+git config --global user.name "Merey"
+git config --global user.email "mereyazhibekova@gmail.com"
+git config --list
+rm -rf /usr/local/bin/brew
+rm -rf /usr/local/share/doc/homebrew
+rm -rf /usr/local/share/man/man1/brew.1
+rm -rf /usr/local/share/zsh/site-functions/_brew
+rm -rf /usr/local/etc/bash_completion.d/brew
+rm -rf /usr/local/Homebrew
+sh run.sh
+touch run.sh
+rm -rf /usr/local/bin/brew
+sh run.sh
+rm -rf /usr/local/share/doc/homebrew
+rm -rf /usr/local/share/man/man1/brew.1
+rm -rf /usr/local/share/zsh/site-functions/_brew\
+
+rm -rf /usr/local/etc/bash_completion.d/brew\
+
+rm -rf /usr/local/Homebrew
+rm -rf /opt/homebrew
+sudo rm -rf /usr/local/Homebrew
+rm -rf /opt/homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew doctor
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew
+brew doctor
+brew install wget
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+pip install bs4==4.10.0 -y
+bs4==4.10.0 -y
+pip install bs4==4.10.0
+pip install bs4
+pip install lxml==4.6.4
+brew install lxml==4.6.4
+brew install lxml
+brew install libxmlb
+brew install pandas
+brew install --cask panda
+pip install lxml==4.6.4 install bs4==4.10.0 -y
+pip install lxml==4.6.4 install bs4==4.10.0 -y install bs4==4.10.0
+pip install bs4==4.10.0
+pip install bs4
+brew install plotly
+ip install plotly==5.18.0
+pip install plotly==5.18.0
+pip install pandas==1.3.5
+pip uninstall pandas 1.3.5
+brew uninstall pandas 
+ /usr/bin/env /usr/bin/python3 /Users/mereyazhibekova/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50892 -- /Users/mereyazhibekova/Downloads/Final_Assignment\ Library-4.ipynb 
+pip install pandas
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+cd ~/Documents
+source activate myenv
+conda info --envs
+/Users/mereyazhibekova/anaconda3/bin/jupyter_mac.command ; exit;
+pip install DatetimeIndex
+/Users/your-name/.anaconda/navigator/scripts/notebook.sh
+source /Users/your-name/anaconda3/bin/activate /Users/your-name/anaconda3
+pip install --setup upgrade pip
+pip install notebook
+jupyter notebook
+pip install --upgrade yfinance
+jupyter notebook
+pip install datetime
+jupyter notebook
+jupyter notebook
+brew install parallels
+go go version
+cd /usr/local/go
+go version
+clear
+cd go
+go version
+export PATH=$PATH:/usr/local/go/bin
+go version
+cd go
+cd /usr/local/go
+go version
+cd
+mkdir new_go
+cd new_go
+go mod init example/new_go
+go run file.go
+go version
+export PATH=$PATH:/usr/local/go/bin
+go version
+go run file.go
+cd go.mod
+mkdir go_trial 
+cd go_trial
+code .
+go run main.go
+export PATH=$PATH:/usr/local/go/bin
+go run main.go
+go run main.go
+go run main.go
+jupyter notebook
+node -v
+brew -v
+brew install node
+node -v
+jupyter notebook
+jupyter notebook

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>CFBundleTypeMIMETypes</key>
+			<array>
+				<string>*/*</string>
+			</array>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>****</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>fh</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>FH File</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>WinAppHelper</string>
+	<key>CFBundleGetInfoString</key>
+	<string>18.0, Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App</string>
+	<key>CFBundleIconFile</key>
+	<string>WinAppHelper.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.parallels.winapp.554f79c54fac24816dfbe94ed2452453.f54b10c6243249ea851e52fb4b4600d0</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>de</string>
+		<string>ja</string>
+		<string>en</string>
+		<string>zh_CN</string>
+		<string>es</string>
+		<string>pt_BR</string>
+		<string>it</string>
+		<string>cs</string>
+		<string>ko</string>
+		<string>pl</string>
+		<string>zh_TW</string>
+		<string>fr</string>
+	</array>
+	<key>CFBundleName</key>
+	<string>Feedback Hub</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>Windows 11</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>feedback-hub</string>
+				<string>insiderhub</string>
+				<string>windows-feedback</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>19.54734.0</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.7.0</string>
+	<key>LSUIElement</key>
+	<string>1</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>CStubApplication</string>
+</dict>
+</plist>

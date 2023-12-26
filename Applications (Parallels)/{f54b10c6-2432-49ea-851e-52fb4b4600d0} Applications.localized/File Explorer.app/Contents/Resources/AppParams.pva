@@ -1,0 +1,8 @@
+[System]
+Helper Version = 18.0
+VM Id = {f54b10c6-2432-49ea-851e-52fb4b4600d0}
+VM Name = Windows 11
+VM OS Type = 8.2067
+APP Path = C:\Windows\explorer.exe
+Protocols = explorer.assocactionid.burnselection,explorer.assocactionid.erasedisc,explorer.assocactionid.zipselection,explorer.assocprotocol.search-ms,explorer.burnselection,explorer.erasedisc,explorer.zipselection,search,search-ms
+File Extensions = 7z,bz2,cab,exe,gz,msi,osdx,p7s,rar,scf,tar,tbz2,tgz,txz,tzst,udl,xz,zip,zst
